@@ -1,4 +1,4 @@
-# COVID-19-and-its-Effects-on-Hong-Kong-s-Economy
+# COVID-19 and its Effects on Hong Kong's Economy
 This project analyses the dynamics between COVID-19 and its effects on Hong Kong’s economy using data from 2019–2023. Through a Tableau storyboard, we visualised economic indicators such as the Consumer Price Index (CPI), Gross Domestic Product (GDP), and Unemployment Rate to tell a story of resilience amidst adversity. The storyboard illustrates the journey from economic downturns caused by the pandemic to gradual recovery, evidenced by improving indicators.
 
 **Key Features:**
